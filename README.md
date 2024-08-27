@@ -1,2 +1,2 @@
 # soccercv
-Computer vision for soccer analysis
+A suite of python tools to analyze soccer matches, using object detection to track players, goalkeepers, referees, and the ball, perspectctive transformation through keypoint detection to project player movement in a radar view, draw the exact path of ball movement, and visualize ball posession by team through a Voronoi diagram, and embedding analysis to divide the players into teams (SigLIP to generate embeddings, UMAP for dimensionality reduction, and K-Means to player clusters).
